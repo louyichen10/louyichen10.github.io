@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Yichen Lou (娄怡晨), a statistician passionate about developing and applying statistical methodologies. I earned my Ph.D. in Statistics from Jilin University in 2024, where my research was guided by Prof. Jianguo Sun, with valuable co-guidance from Prof. Zhao Shishu, Dr. Wang Peijie, and Dr. Du Mingyue. This followed my dual undergraduate degrees in Statistics (BSc) and Economics (BSEC) from Jilin University in 2019.
+Welcome! I am Lou Yichen (娄怡晨), a dedicated researcher in statistics about developing and applying statistical methodologies. I earned my Ph.D. in Statistics from Jilin University in 2024, where my research was guided by Prof. Jianguo Sun, with valuable co-guidance from Prof. Zhao Shishu, Dr. Wang Peijie, and Dr. Du Mingyue. This followed my dual undergraduate degrees in Statistics (BSc) and Economics (BSEC) from Jilin University in 2019.
 
 My research spans several key areas, including survival analysis, biased sampling, missing data solutions, causal inference, change point detection, competing risk models, and transfer learning. A formative part of my doctoral training was a visiting research period at Nanyang Technological University (NTU), Singapore, with Prof. Liming Xiang.
 
