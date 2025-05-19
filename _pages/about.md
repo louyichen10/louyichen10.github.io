@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome! I am Yichen Lou (娄怡晨), a statistician passionate about developing and applying statistical methodologies. I earned my Ph.D. in Statistics from Jilin University in 2024, where my research was guided by Prof. Jianguo Sun, with valuable co-guidance from Prof. Zhao Shishu, Dr. Wang Peijie, and Dr. Du Mingyue. This followed my dual undergraduate degrees in Statistics (BSc) and Economics (BSEC) from Jilin University in 2019.
+
+My research spans several key areas, including survival analysis, biased sampling, missing data solutions, causal inference, change point detection, competing risk models, and transfer learning. A formative part of my doctoral training was a visiting research period at Nanyang Technological University (NTU), Singapore, with Prof. Liming Xiang.
+
+
+I am currently a Postdoctoral Fellow at the Chinese University of Hong Kong, collaborating with Prof. Xinyuan Song and Dr. Huichen Zhu. In July 2025, I look forward to commencing a new postdoctoral position at NTU, Singapore, under the supervision of Prof. Liming Xiang. 
+
 
 A data-driven personal website
 ======
