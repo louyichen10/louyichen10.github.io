@@ -17,10 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Postdoctoral Fellow in the Department of Statistics at the Chinese University of Hong Kong, under the supervision of Prof. Xinyuan Song and Dr. Huichen Zhu. Starting from July 2025, I will join the School of Physical and Mathematical Sciences at Nanyang Technological University, Singapore, as a Postdoctoral Fellow working with Prof. Liming Xiang.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include:
+- Survival analysis
+- Biased sampling
+- Missing data
+- Causal inference
+- Change point analysis
+- Competing risks
+- Transfer learning
 
+I obtained my Ph.D. in Statistics from Jilin University, China, under the supervision of Prof. Jianguo Sun, and also worked closely and was advised by Prof. Shishun Zhao, Dr. Peijie Wang, and Dr. Mingyue Du. I also hold B.Sc. and B.S.Ec. degrees in Statistics and Economics from Jilin University.
+
+Feel free to explore my publications and contact me for collaboration opportunities.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
