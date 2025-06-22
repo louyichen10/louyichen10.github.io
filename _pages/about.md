@@ -25,7 +25,7 @@ My research interests lie broadly in survival analysis, biased sampling, missing
 
 Thank you for visiting my page! Please feel free to explore my publications and reach out if you’d like to collaborate!
 
-<span id="education"></span>
+
 
 # 📖 Education
 
@@ -36,9 +36,8 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - **B.S.Ec. in Economics**, Jilin University, China  *2015 – 2019*
 
-<span id="experience"></span>
 
-# 💻 Research & Industry Experience
+# 💻 Experience
 
 - **Postdoctoral Fellow**, Nanyang Technological University, Singapore — *Jul 2025 – Present*  
   Supervisor: Prof. Liming Xiang
@@ -57,9 +56,9 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - **Exchange Student**, University of Alberta, Canada — *Jul 2017 – Sep 2017*
 
-<span id="publications"></span>  
 
-# 📝 Publications 
+
+# ☀️ Publications 
 
 ### 2025
 
@@ -101,7 +100,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Wang, P., Lou, Y., & Sun, J. (2023). *A pairwise pseudo-likelihood approach for the additive hazards model with left-truncated and interval-censored data*. Statistics and Its Interface, 16(4): 553–563.
 
-<span id="talks"></span>
+
 
 # 💬 Invited Talks
 
