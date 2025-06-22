@@ -58,7 +58,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 
 
-# ☀️ Publications 
+# 📝 Publications 
 
 ### 2025
 
