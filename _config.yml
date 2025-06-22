@@ -19,6 +19,14 @@ google_site_verification :
 bing_site_verification   : 
 baidu_site_verification  :  
 
+navbar_links:
+  Home: "about"
+  Publications: "publications"
+  Invited Talks: "talks"
+  Education: "education"
+  Internships: "internships"
+  Contact: "contact"
+  
 # Site Author
 author:
   name             : "Yichen Lou"
