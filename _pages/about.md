@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m **Yichen Lou (娄怡晨)**, a researcher in Statistics with a passion for developing practical and flexible methods for complex data problems. I am currently a Postdoctoral Fellow in the Department of Statistics at the Chinese University of Hong Kong, where I work under the guidance of Prof. Xinyuan Song and Dr. Huichen Zhu. In July 2025, I will join the School of Physical and Mathematical Sciences at Nanyang Technological University, Singapore, as a Postdoctoral Fellow with Prof. Liming Xiang.
+Hello! I’m **Yichen Lou (娄怡晨)**, a researcher in Statistics passionate about developing practical and flexible methods for complex data problems. I am currently a Postdoctoral Fellow at the School of Physical and Mathematical Sciences, **Nanyang Technological University (NTU)**, Singapore, working under the supervision of [Prof. Liming Xiang](https://personal.ntu.edu.sg/lmxiang/). Previously, I was a Postdoctoral Fellow at the Department of Statistics, **Chinese University of Hong Kong (CUHK)**, where I worked with **Prof. Xinyuan Song** and **Dr. Huichen Zhu**.
 
-I completed my Ph.D. in Statistics at Jilin University, China, under the supervision of Prof. Jianguo Sun and was also fortunate to work closely with Prof. Shishun Zhao, Dr. Peijie Wang, and Dr. Mingyue Du, who provided invaluable guidance throughout my doctoral journey. I also hold B.Sc. and B.S.Ec. degrees in Statistics and Economics from Jilin University. 
+I completed my Ph.D. in Statistics at Jilin University, China, under the supervision of **Prof. Jianguo Sun**, and I was also fortunate to work closely with **Prof. Shishun Zhao**, **Dr. Peijie Wang**, and **Dr. Mingyue Du**, who provided invaluable guidance throughout my doctoral journey. I also hold B.Sc. and B.S.Ec. degrees in Statistics and Economics from Jilin University.
 
-My research interests lie broadly in survival analysis, biased sampling, missing data, causal inference, change point problems, competing risks, and transfer learning. I am especially interested in creating robust and efficient statistical tools that can tackle real-world challenges in medical and epidemiological studies.
+My research interests include survival analysis, biased sampling, missing data, causal inference, change point problems, competing risks, and transfer learning. I am particularly interested in creating robust and efficient statistical tools that tackle real-world challenges in medical and epidemiological studies.
 
 Thank you for visiting my page! Please feel free to explore my publications and reach out if you’d like to collaborate!
-
 
 
 # 📖 Education
