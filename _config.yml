@@ -1,61 +1,163 @@
-# Basic Site Info
-title: "Yichen Lou (娄怡晨)"
-email: "louyichen19@outlook.com"
-description: >-
-  Postdoctoral Fellow in Statistics. Research interests include survival analysis, biased sampling, missing data, causal inference, change point, competing risks, and transfer learning.
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Remote theme for acad-homepage
-remote_theme: alshedivat/al-folio
+# Site Settings
+title                    : "Lorem ipsum"
+description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+repository               : "RayeRen/acad-homepage.github.io"
+google_scholar_stats_use_cdn : true
+
+# google analytics
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+
+# SEO Related
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-name: "Yichen Lou"
-affiliation: 
-  - "Postdoctoral Fellow, Chinese University of Hong Kong"
-  - "Incoming Postdoctoral Fellow, Nanyang Technological University, Singapore"
-position: "Postdoctoral Fellow"
-interests: 
-  - Survival analysis
-  - Biased sampling
-  - Missing data
-  - Causal inference
-  - Change point
-  - Competing risks
-  - Transfer learning
-email: "louyichen19@outlook.com"
+author:
+  name             : "Lorem ipsum"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Lorem ipsum College"
+  location         : "Beijing, China"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "Lorem@ipsum.com"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : # e.g., "github username"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-# Contact (optional)
-address: "Singapore & Hong Kong"
-phone: "+86 188 4406 8624"
 
-# Social & Links (fill as needed)
-github_username: "YOUR_GITHUB_USERNAME"  # replace with your GitHub username
-google_scholar: "YOUR_GOOGLE_SCHOLAR_URL"  # replace with your Scholar link
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Navbar menu
-navbar_links:
-  Home: "about"
-  Publications: "publications"
-  Invited Talks: "talks"
-  Education: "education"
-  Internships: "internships"
-  Contact: "contact"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
-# Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
 
-# Exclude files from build
-exclude:
-  - README.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-
-# Footer
-footer_text: "© Yichen Lou. Powered by acad-homepage and GitHub Pages."
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
