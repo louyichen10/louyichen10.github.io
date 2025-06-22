@@ -25,30 +25,19 @@ My research interests lie broadly in survival analysis, biased sampling, missing
 
 Thank you for visiting my page! Please feel free to explore my publications and reach out if you’d like to collaborate!
 
-# 📖 Educations and Experiences
+# 📖 Education
 
-### Ph.D. in Statistics  
-**Jilin University**, China  
-*2019 – 2024*  
-- Dissertation: *“Semiparametric Statistical Inference for Complex Interval-Censored Data”*  
+- **Ph.D. in Statistics**, Jilin University, China — *2019–2024*  
+  Supervisor: Prof. Jianguo Sun; also worked closely with Prof. Shishun Zhao, Dr. Peijie Wang, and Dr. Mingyue Du.
 
-### B.Sc. in Statistics  
-**Jilin University**, China  
-*2015 – 2019*
+- **B.Sc. in Statistics**, Jilin University, China — *2015–2019*
 
+- **B.S.Ec. in Economics**, Jilin University, China — *2015–2019*
 
-### B.S.Ec. in Economics  
-**Jilin University**, China  
-*2015 – 2019*
+- **Exchange Student**, Michigan State University, USA — *Aug 2018–Dec 2018*  
+  Supervisor: Prof. Yuying Xie
 
-### Exchange Programs
-
-- **Michigan State University**, Michigan, U.S.A.  
-  *Exchange Student, August 2018 – December 2018*  
-  - Supervisor: Prof. Yuying Xie
-
-- **University of Alberta**, Alberta, Canada  
-  *Exchange Student, July 2017 – September 2017*
+- **Exchange Student**, University of Alberta, Canada — *Jul 2017–Sep 2017* 
 
 
 # 📝 Publications 
