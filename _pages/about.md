@@ -25,6 +25,31 @@ My research interests lie broadly in survival analysis, biased sampling, missing
 
 Thank you for visiting my page! Please feel free to explore my publications and reach out if you’d like to collaborate!
 
+# 📖 Educations and Experiences
+
+### Ph.D. in Statistics  
+**Jilin University**, China  
+*2019 – 2024*  
+- Dissertation: *“Semiparametric Statistical Inference for Complex Interval-Censored Data”*  
+
+### B.Sc. in Statistics  
+**Jilin University**, China  
+*2015 – 2019*
+
+
+### B.S.Ec. in Economics  
+**Jilin University**, China  
+*2015 – 2019*
+
+### Exchange Programs
+
+- **Michigan State University**, Michigan, U.S.A.  
+  *Exchange Student, August 2018 – December 2018*  
+  - Supervisor: Prof. Yuying Xie
+
+- **University of Alberta**, Alberta, Canada  
+  *Exchange Student, July 2017 – September 2017*
+
 
 # 📝 Publications 
 
@@ -69,19 +94,34 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 - Wang, P., Lou, Y., & Sun, J. (2023). *A pairwise pseudo-likelihood approach for the additive hazards model with left-truncated and interval-censored data*. Statistics and Its Interface, 16(4): 553–563.
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+### 2025
+
+- **ICSA China Conference**, Beijing Normal University (Zhuhai), June 29, 2025  
+  *Talk Title:* *Semiparametric cure regression models with informative case K interval-censored failure time data*
+
+- **Jilin University**, June 6, 2025  
+  *Talk Title:* *Semiparametric cure regression models with informative case K interval-censored failure time data*
+
+### 2024
+
+- **Joint Conference on Statistics and Data Science in China**, Yunnan University, July 12, 2024  
+  *Talk Title:* *A new and unified method for regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*
+
+- **ICSA China Conference**, Southwestern University of Finance and Economics, June 28, 2024  
+  *Talk Title:* *A new and unified method for regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*
+
+### 2022
+
+- **ICSA China Conference**, Xi’an University of Finance and Economics, July 1, 2022  
+  *Talk Title:* *A new approach for semi-parametric regression analysis of bivariate interval-censored outcomes from case-cohort studies*
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
