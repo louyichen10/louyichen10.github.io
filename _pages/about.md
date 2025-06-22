@@ -29,7 +29,6 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 # 📖 Education
 
 - **Ph.D. in Statistics**, Jilin University, China  *2019 – 2024*  
-  Supervisor: Prof. Jianguo Sun; also worked closely with Prof. Shishun Zhao, Dr. Peijie Wang, and Dr. Mingyue Du.
 
 - **B.Sc. in Statistics**, Jilin University, China  *2015 – 2019*
 
