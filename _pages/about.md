@@ -125,4 +125,4 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 
 # 📧 Contact
-**Email:** [louyichen10@outlook.com](mailto:louyichen10@outlook.com)  
+**Email:** [louyichen10@ outlook.com]
