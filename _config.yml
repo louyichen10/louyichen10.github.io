@@ -18,14 +18,6 @@ google_analytics_id      :
 google_site_verification : 
 bing_site_verification   : 
 baidu_site_verification  :  
-
-navbar_links:
-  Home: "about"
-  Publications: "publications"
-  Invited Talks: "talks"
-  Education: "education"
-  Internships: "internships"
-  Contact: "contact"
   
 # Site Author
 author:
@@ -169,3 +161,15 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+navbar_links:
+  Homepage: "about"
+  About Me: "#about-me"
+  News: "#news"
+  Publications: "#publications"
+  Honors and Awards: "#honors"
+  Educations: "#education"
+  Invited Talks: "#talks"
+  Internships: "#internships"
+  Contact: "#contact"
