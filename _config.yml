@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yichen Lou (娄怡晨)"
-description              : "Postdoctoral Fellow in Statistics. Research interests include survival analysis, biased sampling, missing data, causal inference, change point, competing risks, and transfer learning. "
+description              : # "Postdoctoral Fellow in Statistics. Research interests include survival analysis, biased sampling, missing data, causal inference, change point, competing risks, and transfer learning. "
 repository               : "louyichen10/louyichen10.github.io"
 google_scholar_stats_use_cdn : false
 
