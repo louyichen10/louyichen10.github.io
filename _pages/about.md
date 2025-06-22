@@ -17,20 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow in the Department of Statistics at the Chinese University of Hong Kong, under the supervision of Prof. Xinyuan Song and Dr. Huichen Zhu. Starting from July 2025, I will join the School of Physical and Mathematical Sciences at Nanyang Technological University, Singapore, as a Postdoctoral Fellow working with Prof. Liming Xiang.
+Hello! I’m **Yichen Lou (娄怡晨)**, a researcher in Statistics with a passion for developing practical and flexible methods for complex data problems. I am currently a Postdoctoral Fellow in the Department of Statistics at the Chinese University of Hong Kong, where I work under the guidance of Prof. Xinyuan Song and Dr. Huichen Zhu. In July 2025, I will join the School of Physical and Mathematical Sciences at Nanyang Technological University, Singapore, as a Postdoctoral Fellow with Prof. Liming Xiang.
 
-My research interests include:
-- Survival analysis
-- Biased sampling
-- Missing data
-- Causal inference
-- Change point analysis
-- Competing risks
-- Transfer learning
+I completed my Ph.D. in Statistics at Jilin University, China, under the supervision of Prof. Jianguo Sun and was also fortunate to work closely with Prof. Shishun Zhao, Dr. Peijie Wang, and Dr. Mingyue Du, who provided invaluable guidance throughout my doctoral journey. I also hold B.Sc. and B.S.Ec. degrees in Statistics and Economics from Jilin University. 
 
-I obtained my Ph.D. in Statistics from Jilin University, China, under the supervision of Prof. Jianguo Sun, and also worked closely and was advised by Prof. Shishun Zhao, Dr. Peijie Wang, and Dr. Mingyue Du. I also hold B.Sc. and B.S.Ec. degrees in Statistics and Economics from Jilin University.
+My research interests lie broadly in survival analysis, biased sampling, missing data, causal inference, change point problems, competing risks, and transfer learning. I am especially interested in creating robust and efficient statistical tools that can tackle real-world challenges in medical and epidemiological studies.
 
-Feel free to explore my publications and contact me for collaboration opportunities.
+Thank you for visiting my page! Please feel free to explore my publications and reach out if you’d like to collaborate!
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
