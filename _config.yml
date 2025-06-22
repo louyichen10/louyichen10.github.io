@@ -166,10 +166,8 @@ compress_html:
 navbar_links:
   Homepage: "about"
   About Me: "#about-me"
-  News: "#news"
-  Publications: "#publications"
-  Honors and Awards: "#honors"
   Educations: "#education"
+  Experience: "#experience"
+  Publications: "#publications"
   Invited Talks: "#talks"
-  Internships: "#internships"
   Contact: "#contact"
