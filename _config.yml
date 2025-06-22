@@ -162,12 +162,3 @@ compress_html:
   ignore:
     envs: development
 
-
-navbar_links:
-  Homepage: "about"
-  About Me: "#about-me"
-  Educations: "#education"
-  Experience: "#experience"
-  Publications: "#publications"
-  Invited Talks: "#talks"
-  Contact: "#contact"
