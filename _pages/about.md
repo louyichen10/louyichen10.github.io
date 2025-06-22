@@ -27,18 +27,33 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 # 📖 Education
 
-- **Ph.D. in Statistics**, Jilin University, China — *2019–2024*  
+- **Ph.D. in Statistics**, Jilin University, China  *2019 – 2024*  
   Supervisor: Prof. Jianguo Sun; also worked closely with Prof. Shishun Zhao, Dr. Peijie Wang, and Dr. Mingyue Du.
 
-- **B.Sc. in Statistics**, Jilin University, China — *2015–2019*
+- **B.Sc. in Statistics**, Jilin University, China  *2015 – 2019*
 
-- **B.S.Ec. in Economics**, Jilin University, China — *2015–2019*
+- **B.S.Ec. in Economics**, Jilin University, China  *2015 – 2019*
 
-- **Exchange Student**, Michigan State University, USA — *Aug 2018–Dec 2018*  
+
+# 💻 Research & Industry Experience
+
+- **Postdoctoral Fellow**, Nanyang Technological University, Singapore — *Jul 2025 – Present*  
+  Supervisor: Prof. Liming Xiang
+
+- **Postdoctoral Fellow**, Chinese University of Hong Kong, Hong Kong — *Jul 2024 – Jun 2025*  
+  Supervisor: Prof. Xinyuan Song, Dr. Huichen Zhu
+
+- **Visiting Ph.D. Student**, Nanyang Technological University, Singapore — *Feb 2023 – Feb 2024*  
+  Supervisor: Prof. Liming Xiang
+
+- **Intern Researcher**, Weichai Power Co., Ltd., Shandong, China — *Jul 2021 – Sep 2021*  
+  Supervisor: Dr. Chenguang Huang
+
+- **Exchange Student**, Michigan State University, USA — *Aug 2018 – Dec 2018*  
   Supervisor: Prof. Yuying Xie
 
-- **Exchange Student**, University of Alberta, Canada — *Jul 2017–Sep 2017* 
-
+- **Exchange Student**, University of Alberta, Canada — *Jul 2017 – Sep 2017*
+- 
 
 # 📝 Publications 
 
@@ -83,11 +98,6 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 - Wang, P., Lou, Y., & Sun, J. (2023). *A pairwise pseudo-likelihood approach for the additive hazards model with left-truncated and interval-censored data*. Statistics and Its Interface, 16(4): 553–563.
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
 # 💬 Invited Talks
 
 ### 2025
@@ -110,6 +120,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - **ICSA China Conference**, Xi’an University of Finance and Economics, July 1, 2022  
   *Talk Title:* *A new approach for semi-parametric regression analysis of bivariate interval-censored outcomes from case-cohort studies*
+
 
 
 # 💻 Internships
