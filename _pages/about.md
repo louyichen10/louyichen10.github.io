@@ -25,6 +25,7 @@ My research interests lie broadly in survival analysis, biased sampling, missing
 
 Thank you for visiting my page! Please feel free to explore my publications and reach out if you’d like to collaborate!
 
+
 # 📖 Education
 
 - **Ph.D. in Statistics**, Jilin University, China  *2019 – 2024*  
@@ -53,7 +54,8 @@ Thank you for visiting my page! Please feel free to explore my publications and 
   Supervisor: Prof. Yuying Xie
 
 - **Exchange Student**, University of Alberta, Canada — *Jul 2017 – Sep 2017*
-- 
+
+  
 
 # 📝 Publications 
 
@@ -122,6 +124,5 @@ Thank you for visiting my page! Please feel free to explore my publications and 
   *Talk Title:* *A new approach for semi-parametric regression analysis of bivariate interval-censored outcomes from case-cohort studies*
 
 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📧 Contact
+**Email:** [louyichen10@outlook.com](mailto:louyichen10@outlook.com)  
