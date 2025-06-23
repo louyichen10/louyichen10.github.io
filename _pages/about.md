@@ -50,7 +50,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
   Supervisor: Dr. Chenguang Huang
 
 - **Exchange Student**, Michigan State University, USA — *Aug 2018 – Dec 2018*  
-  Supervisor: Prof. Yuying Xie
+  Supervisor: Dr. Yuying Xie
 
 - **Exchange Student**, University of Alberta, Canada — *Jul 2017 – Sep 2017*
 
