@@ -32,7 +32,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - **B.Sc. in Statistics**, Jilin University, China  *2015 – 2019*
 
-- **B.S.Ec. in Economics**, Jilin University, China  *2015 – 2019*
+- **B.Ec. in Economics**, Jilin University, China  *2015 – 2019*
 
 
 # 💻 Experience
