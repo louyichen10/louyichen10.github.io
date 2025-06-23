@@ -15,11 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span> 
 
-Hello! I’m **Yichen Lou (娄怡晨)**, a researcher in Statistics passionate about developing practical and flexible methods for complex data problems. I am currently a Postdoctoral Fellow at the School of Physical and Mathematical Sciences, Nanyang Technological University (NTU), Singapore, working under the supervision of [Prof. Liming Xiang](https://personal.ntu.edu.sg/lmxiang/). Previously, I was a Postdoctoral Fellow at the Department of Statistics, Chinese University of Hong Kong (CUHK), where I worked with [Prof. Xinyuan Song](https://www.sta.cuhk.edu.hk/peoples/xysong/) and [Dr. Huichen Zhu](https://www.sta.cuhk.edu.hk/peoples/hczhu/).
+Hello! I’m **Yichen Lou (娄怡晨)**, a researcher in Statistics passionate about developing practical and flexible methods for complex data problems. I am currently a Postdoctoral Fellow at the Department of Statistics, The Chinese University of Hong Kong (CUHK), working with [Prof. Xinyuan Song](https://www.sta.cuhk.edu.hk/peoples/xysong/) and [Dr. Huichen Zhu](https://www.sta.cuhk.edu.hk/peoples/hczhu/). I will soon join the School of Physical and Mathematical Sciences at Nanyang Technological University (NTU), Singapore, as a Postdoctoral Fellow under the supervision of [Prof. Liming Xiang](https://personal.ntu.edu.sg/lmxiang/).
 
-I completed my Ph.D. in Statistics at Jilin University, China, under the supervision of [Prof. Jianguo Sun](https://sunj.mufaculty.umsystem.edu/), and I was also fortunate to work closely with [Prof. Shishun Zhao](https://math.jlu.edu.cn/info/1061/9061.htm), [Dr. Peijie Wang](https://math.jlu.edu.cn/info/1062/9184.htm), and [Dr. Mingyue Du](https://math.jlu.edu.cn/info/1062/13162.htm), who provided invaluable guidance throughout my doctoral journey. I also hold B.Sc. and B.S.Ec. degrees in Statistics and Economics from Jilin University.
+I completed my Ph.D. in Statistics at Jilin University, China, under the supervision of [Prof. Jianguo Sun](https://sunj.mufaculty.umsystem.edu/), and I was also fortunate to work closely with [Prof. Shishun Zhao](https://math.jlu.edu.cn/info/1061/9061.htm), [Dr. Peijie Wang](https://math.jlu.edu.cn/info/1062/9184.htm), and [Dr. Mingyue Du](https://math.jlu.edu.cn/info/1062/13162.htm), who provided invaluable guidance throughout my doctoral journey. I also hold B.Sc. and B.Ec. degrees in Statistics and Economics from Jilin University.
 
 My research interests include survival analysis, biased sampling, missing data, causal inference, change point problems, competing risks, and transfer learning. I am particularly interested in creating robust and efficient statistical tools that tackle real-world challenges in medical and epidemiological studies.
 
