@@ -126,4 +126,4 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 <span id="contact"></span>
 
 # 📧 Contact
-**Email:** [louyichen10@ outlook.com]
+**Email:** [louyichen10@outlook.com]
