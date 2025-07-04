@@ -60,6 +60,8 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 ### 2025
 
+- Lou, Y., Du, M., & Song, X. (2025). *Regression analysis of interval-censored failure time data with change points and a cured subgroup*. Biometrics, Accepted.
+
 - Lou, Y., Du, M., Wang, P., & Song, X. (2025). *Semiparametric regression analysis of interval-censored failure time data with a cure subgroup and nonignorable missing covariates*. Statistical Methods in Medical Research, Accepted.
 
 - Du, M., Lou, Y., & Sun, J. (2025). *Estimation of the additive hazards model based on interval-censored failure time data with random change point*. Statistics and Computing, Accepted.
