@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-Hello! I’m **Yichen Lou (娄怡晨)**, a researcher in Statistics passionate about developing practical and flexible methods for complex data problems. I am currently a Postdoctoral Fellow at the School of Physical and Mathematical Sciences, Nanyang Technological University (NTU), Singapore, working under the supervision of [Prof. Liming Xiang](https://personal.ntu.edu.sg/lmxiang/). Before joining NTU, I was a Postdoctoral Fellow at the Department of Statistics, The Chinese University of Hong Kong (CUHK), where I worked with [Prof. Xinyuan Song](https://www.sta.cuhk.edu.hk/peoples/xysong/) and [Dr. Huichen Zhu](https://www.sta.cuhk.edu.hk/peoples/hczhu/).
+Hello! I’m **Yichen Lou (娄怡晨)**, a researcher in Statistics passionate about developing practical and flexible methods for complex data problems. I am currently a Research Fellow at the School of Physical and Mathematical Sciences, Nanyang Technological University (NTU), Singapore, working under the supervision of [Prof. Liming Xiang](https://personal.ntu.edu.sg/lmxiang/). Before joining NTU, I was a Postdoctoral Fellow at the Department of Statistics, The Chinese University of Hong Kong (CUHK), where I worked with [Prof. Xinyuan Song](https://www.sta.cuhk.edu.hk/peoples/xysong/) and [Dr. Huichen Zhu](https://www.sta.cuhk.edu.hk/peoples/hczhu/).
 
 I completed my Ph.D. in Statistics at Jilin University, China, under the supervision of [Prof. Shishun Zhao](https://math.jlu.edu.cn/info/1061/9061.htm), [Dr. Peijie Wang](https://math.jlu.edu.cn/info/1062/9184.htm), and [Dr. Mingyue Du](https://math.jlu.edu.cn/info/1062/13162.htm). I was also very lucky to work closely with [Prof. Jianguo Sun](https://sunj.mufaculty.umsystem.edu/), whose guidance and support have meant so much to me, not only during my Ph.D. but also in how I think about research and life. His insight, integrity, and kindness have left a deep impression on me, and I'm truly thankful for everything I’ve learned from him. I also had the joy of working closely with Dr. Yuqing Ma, who is not only a wonderful collaborator but also a dear friend who was always there to accompany and support me every step of the way.
 
@@ -37,7 +37,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 # 💻 Experience
 
-- **Postdoctoral Fellow**, Nanyang Technological University, Singapore — *Jul 2025 – Present*  
+- **Research Fellow**, Nanyang Technological University, Singapore — *Jul 2025 – Present*  
   Supervisor: Prof. Liming Xiang
 
 - **Postdoctoral Fellow**, Chinese University of Hong Kong, Hong Kong — *Jul 2024 – Jun 2025*  
