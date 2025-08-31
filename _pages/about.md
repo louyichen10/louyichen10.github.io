@@ -107,23 +107,18 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 ### 2025
 
 - **ICSA China Conference**, Beijing Normal University (Zhuhai), June 29, 2025  
-  *Talk Title:* *Semiparametric cure regression models with informative case K interval-censored failure time data*
 
 - **Jilin University**, June 6, 2025  
-  *Talk Title:* *Semiparametric cure regression models with informative case K interval-censored failure time data*
 
 ### 2024
 
 - **Joint Conference on Statistics and Data Science in China**, Yunnan University, July 12, 2024  
-  *Talk Title:* *A new and unified method for regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*
 
 - **ICSA China Conference**, Southwestern University of Finance and Economics, June 28, 2024  
-  *Talk Title:* *A new and unified method for regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*
 
 ### 2022
 
 - **ICSA China Conference**, Xi’an University of Finance and Economics, July 1, 2022  
-  *Talk Title:* *A new approach for semi-parametric regression analysis of bivariate interval-censored outcomes from case-cohort studies*
 
 <span id="contact"></span>
 
