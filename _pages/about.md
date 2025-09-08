@@ -47,7 +47,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
   Supervisor: Prof. Liming Xiang
 
 - **Intern Researcher**, Weichai Power Co., Ltd., Shandong, China — *Jul 2021 – Sep 2021*  
-  Supervisor: Dr. Chenguang Huang
+  Supervisor: Dr. Chenguang Huang, Dr. Yang Zhou
 
 - **Exchange Student**, Michigan State University, USA — *Aug 2018 – Dec 2018*  
   Supervisor: Prof. Yuying Xie
