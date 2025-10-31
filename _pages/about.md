@@ -70,7 +70,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Lou, Y., Du, M. (2025). *Regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*. International Journal of Biostatistics, Online.
 
-- Du, M., Lou, Y., & Sun, J. (2025). *Estimation of the Additive Hazards Model Based on Interval-censored Failure Time Data with Random Change Point*. Statistics and Computing, 35(5), 1-11.
+- Du, M., Lou, Y., & Sun, J. (2025). *Estimation of the additive hazards model based on interval-censored failure time data with random change point*. Statistics and Computing, 35(5), 1-11.
 
 - Lou, Y., Ma, Y., Xiang, L., & Sun, J. (2025). *Flexible modeling of left-truncated and interval-censored competing risks data with missing event types*. Computational Statistics & Data Analysis, 211:108229.
 
