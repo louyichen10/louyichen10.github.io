@@ -60,9 +60,11 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 ### 2025
 
-- Lou, Y., Sun, J., Wang, P., & Zhao, S. (2025). *Enhancing proportional hazards mixture cure models with transfer learning for interval-censored data*. Statistics and Computing, 35(6), 186.
+- Lou, Y., Du, M., & Sun, J. (2025). *Two transfer learning approaches for regression analysis of high-dimensional interval-censored failure time data*. Journal of Computational and Graphical Statistics, Online.  
+- 
+- Lou, Y., Sun, J., Wang, P., & Zhao, S. (2025). *Enhancing proportional hazards mixture cure models with transfer learning for interval-censored data*. Statistics and Computing, 35(6), 186.  
 
-- Lou, Y., Du, M., & Song, X. (2025). *Regression analysis of interval-censored failure time data with change points and a cured subgroup*. Biometrics, 81(3), ujaf100.
+- Lou, Y., Du, M., & Song, X. (2025). *Regression analysis of interval-censored failure time data with change points and a cured subgroup*. Biometrics, 81(3), ujaf100.  
 
 - Lou, Y., Du, M., Wang, P., & Song, X. (2025). *Semiparametric regression analysis of interval-censored failure time data with a cure subgroup and nonignorable missing covariates*. Statistical Methods in Medical Research, Online.
 
