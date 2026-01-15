@@ -60,11 +60,11 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 ### 2026
 
+- Lou, Y., Du, M., & Sun, J. (2026). *Two transfer learning approaches for regression analysis of high-dimensional interval-censored failure time data*. Journal of Computational and Graphical Statistics, Online.
+
 - Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric cure regression models with informative case K interval-censored failure time data*. Statistica Sinica, 36: 351-372.
 
 ### 2025
-
-- Lou, Y., Du, M., & Sun, J. (2025). *Two transfer learning approaches for regression analysis of high-dimensional interval-censored failure time data*. Journal of Computational and Graphical Statistics, Online.
 
 - Lou, Y., Du, M., Wang, P., & Song, X. (2025). *Semiparametric regression analysis of interval-censored failure time data with a cure subgroup and nonignorable missing covariates*. Statistical Methods in Medical Research, Online.
 
