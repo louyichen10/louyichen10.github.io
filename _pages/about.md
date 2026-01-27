@@ -60,7 +60,13 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 ### 2026
 
+- Lou, Y., Ma, Y., Xiang, L., & Sun, J. (2026). *Regression analysis of interval-censored competing risks data with missing causes of failure: a direct likelihood approach*. Statistical Methods in Medical Research, Accepted.
+  
+- Du, M., Lou, Y., & Sun, J. (2026). *Regression analysis of case K interval-censored failure time data with random change point and informative censoring*. Annals of Applied Statistics, Accepted.
+  
 - Lou, Y., Du, M., & Sun, J. (2026). *Two transfer learning approaches for regression analysis of high-dimensional interval-censored failure time data*. Journal of Computational and Graphical Statistics, Online.
+
+- Niu, H., Sun, W., Zhang, X., Lou, Y., & Sun, J. (2026). *Estimation of the generalized accelerated hazards models based on case-cohort interval-censored outcomes in the presence of informative censoring*. Journals of Applied Statistics, Accepted.
 
 - Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric cure regression models with informative case K interval-censored failure time data*. Statistica Sinica, 36: 351-372.
 
@@ -72,7 +78,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Lou, Y., Du, M., & Song, X. (2025). *Regression analysis of interval-censored failure time data with change points and a cured subgroup*. Biometrics, 81(3): ujaf100.  
 
-- Lou, Y., Du, M. (2025). *Regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*. International Journal of Biostatistics, 21(2): 321-337.
+- Lou, Y., & Du, M. (2025). *Regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*. International Journal of Biostatistics, 21(2): 321-337.
 
 - Du, M., Lou, Y., & Sun, J. (2025). *Estimation of the additive hazards model based on interval-censored failure time data with random change point*. Statistics and Computing, 35(5): 1-11.
 
