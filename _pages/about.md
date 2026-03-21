@@ -64,7 +64,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Lou, Y., Du, M., & Sun, J. (2026). *Two transfer learning approaches for regression analysis of high-dimensional interval-censored failure time data*. Journal of Computational and Graphical Statistics, Online.
 
-- Jia, J., Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric regression analysis of interval-censored competing risks data under additive hazards model with missing event types*. Lifetime Data Analysis, Online.
+- Jia, R., Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric regression analysis of interval-censored competing risks data under additive hazards model with missing event types*. Lifetime Data Analysis, Online.
   
 - Du, M., Lou, Y., & Sun, J. (2026). *Regression analysis of case K interval-censored failure time data with random change point and informative censoring*. Annals of Applied Statistics, 20(1): 496-510.
 
