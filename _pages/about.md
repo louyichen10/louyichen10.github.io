@@ -62,19 +62,19 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Lou, Y., Ma, Y., Xiang, L., & Sun, J. (2026). *Regression analysis of interval-censored competing risks data with missing causes of failure: a direct likelihood approach*. Statistical Methods in Medical Research, Online.
 
-- Jia, J., Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric regression analysis of interval-censored competing risks data under additive hazards model with missing event types*. Lifetime Data Analysis, Online.
-  
-- Du, M., Lou, Y., & Sun, J. (2026). *Regression analysis of case K interval-censored failure time data with random change point and informative censoring*. Annals of Applied Statistics, Accepted.
-  
 - Lou, Y., Du, M., & Sun, J. (2026). *Two transfer learning approaches for regression analysis of high-dimensional interval-censored failure time data*. Journal of Computational and Graphical Statistics, Online.
 
-- Niu, H., Sun, W., Zhang, X., Lou, Y., & Sun, J. (2026). *Estimation of the generalized accelerated hazards models based on case-cohort interval-censored outcomes in the presence of informative censoring*. Journals of Applied Statistics, Accepted.
+- Jia, J., Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric regression analysis of interval-censored competing risks data under additive hazards model with missing event types*. Lifetime Data Analysis, Online.
+  
+- Du, M., Lou, Y., & Sun, J. (2026). *Regression analysis of case K interval-censored failure time data with random change point and informative censoring*. Annals of Applied Statistics, 20(1): 496-510.
+
+- Niu, H., Sun, W., Zhang, X., Lou, Y., & Sun, J. (2026). *Estimation of the generalized accelerated hazards models based on case-cohort interval-censored outcomes in the presence of informative censoring*. Journals of Applied Statistics, Online.
 
 - Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric cure regression models with informative case K interval-censored failure time data*. Statistica Sinica, 36: 351-372.
 
 ### 2025
 
-- Lou, Y., Du, M., Wang, P., & Song, X. (2025). *Semiparametric regression analysis of interval-censored failure time data with a cure subgroup and nonignorable missing covariates*. Statistical Methods in Medical Research, Online.
+- Lou, Y., Du, M., Wang, P., & Song, X. (2025). *Semiparametric regression analysis of interval-censored failure time data with a cure subgroup and nonignorable missing covariates*. Statistical Methods in Medical Research, 34(10): 1994-2010.
 
 - Lou, Y., Sun, J., Wang, P., & Zhao, S. (2025). *Enhancing proportional hazards mixture cure models with transfer learning for interval-censored data*. Statistics and Computing, 35(6): 186.  
 
