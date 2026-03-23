@@ -74,13 +74,15 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 ### 2025
 
-- Lou, Y., Du, M., Wang, P., & Song, X. (2025). *Semiparametric regression analysis of interval-censored failure time data with a cure subgroup and nonignorable missing covariates*. Statistical Methods in Medical Research, 34(10): 1994-2010.
+- Lou, Y., Ma, Y., Sun, J., Wang, P., & Ye, Z. (2025). *Instrumental variable estimation of complier causal treatment effects with interval-censored competing risks data*. Biometrics, 81(1): ujaf010.
+
+- Du, M., Lou, Y., & Sun, J. (2025). *Estimation and variable selection for interval-censored failure time data with random change point and application to breast cancer study*. Journal of the American Statistical Association, 120(552): 2276-2287.
 
 - Lou, Y., Sun, J., Wang, P., & Zhao, S. (2025). *Enhancing proportional hazards mixture cure models with transfer learning for interval-censored data*. Statistics and Computing, 35(6): 186.  
 
-- Lou, Y., Du, M., & Song, X. (2025). *Regression analysis of interval-censored failure time data with change points and a cured subgroup*. Biometrics, 81(3): ujaf100.  
-
-- Lou, Y., & Du, M. (2025). *Regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*. International Journal of Biostatistics, 21(2): 321-337.
+- Lou, Y., Du, M., & Song, X. (2025). *Regression analysis of interval-censored failure time data with change points and a cured subgroup*. Biometrics, 81(3): ujaf100.
+  
+- Lou, Y., Du, M., Wang, P., & Song, X. (2025). *Semiparametric regression analysis of interval-censored failure time data with a cure subgroup and nonignorable missing covariates*. Statistical Methods in Medical Research, 34(10): 1994-2010.
 
 - Du, M., Lou, Y., & Sun, J. (2025). *Estimation of the additive hazards model based on interval-censored failure time data with random change point*. Statistics and Computing, 35(5): 1-11.
 
@@ -90,17 +92,15 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Lou, Y., Ma, Y., Xiang, L., & Sun, J. (2025). *A multiple imputation approach for flexible modelling of interval-censored data with missing and censored covariates*. Computational Statistics & Data Analysis, 209:108177.
 
-- Lou, Y., Ma, Y., Sun, J., Wang, P., & Ye, Z. (2025). *Instrumental variable estimation of complier causal treatment effects with interval-censored competing risks data*. Biometrics, 81(1): ujaf010.
-
-- Du, M., Lou, Y., & Sun, J. (2025). *Estimation and variable selection for interval-censored failure time data with random change point and application to breast cancer study*. Journal of the American Statistical Association, 120(552): 2276-2287.
+- Lou, Y., & Du, M. (2025). *Regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*. International Journal of Biostatistics, 21(2): 321-337.
 
 ### 2024
 
-- Jia, R., Lou, Y., Sun, J., & Wang, P. (2024). *A new method for regression analysis of case-cohort interval-censored failure time data*. Stat, 12(4): e70025.
+- Lou, Y., Ma, Y., & Du, M. (2024). *A new and unified method for regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*. Statistics in Medicine, 43(11): 2062–2082.
 
 - Ma, Y., Wang, P., Lou, Y., & Sun, J. (2024). *Estimation of the additive hazards model based on case-cohort interval-censored data with dependent censoring*. The Canadian Journal of Statistics, 52(4): e11818.
-
-- Lou, Y., Ma, Y., & Du, M. (2024). *A new and unified method for regression analysis of interval-censored failure time data under semiparametric transformation models with missing covariates*. Statistics in Medicine, 43(11): 2062–2082.
+  
+- Jia, R., Lou, Y., Sun, J., & Wang, P. (2024). *A new method for regression analysis of case-cohort interval-censored failure time data*. Stat, 12(4): e70025.
 
 - Lou, Y., Wang, P., & Sun, J. (2024). *Regression analysis of semiparametric transformation models based on multivariate general interval-censored data from case-cohort studies*. Statistics and Its Interface, 18(1): 51–70.
 
