@@ -67,7 +67,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 - Du, M., Lou, Y., & Sun, J. (2026). *Regression analysis of case K interval-censored failure time data with random change point and informative censoring*. Annals of Applied Statistics, 20(1): 496-510.
 
 - Jia, R., Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric regression analysis of interval-censored competing risks data under additive hazards model with missing event types*. Lifetime Data Analysis, 32:19.
-- 
+
 - Niu, H., Sun, W., Zhang, X., Lou, Y., & Sun, J. (2026). *Estimation of the generalized accelerated hazards models based on case-cohort interval-censored outcomes in the presence of informative censoring*. Journals of Applied Statistics, Online.
 
 - Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric cure regression models with informative case K interval-censored failure time data*. Statistica Sinica, 36: 351-372.
