@@ -23,6 +23,9 @@ I received my Ph.D. in [Statistics at Jilin University](https://math.jlu.edu.cn/
 
 My research interests include survival analysis, biased sampling, missing data, causal inference, change point problems, competing risks, and transfer learning. I am particularly interested in creating robust and efficient statistical tools that tackle real-world challenges in medical and epidemiological studies.
 
+🚀 I’m honored and thrilled to receive the [WiEST Development Grant](https://www.ntu.edu.sg/women/wiest-development-grant) 2026 from NTU! A massive thank you to my incredible supervisor, Prof. Xiang Liming, and the wonderful team at [Women at NTU](https://www.ntu.edu.sg/women) for their amazing support. 
+
+
 Thank you for visiting my page! Please feel free to explore my publications and reach out if you’d like to collaborate!
 
 
