@@ -63,9 +63,15 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 ### 2026
 
+- Lou, Y., Du, M., Zhao, H., & Sun, J. (2026). *Transfer learning estimation of the accelerated failure time model based on high-dimensional data*. Biometrics, Online.
+
+- Lou, Y., Du, M., & Sun, J. (2026). *Semiparametric regression analysis of clustered interval-censored failure time data with random change points and application to breast cancer study*. Statistica Sinica, Online. 
+
 - Lou, Y., Ma, Y., Xiang, L., & Sun, J. (2026). *Regression analysis of interval-censored competing risks data with missing causes of failure: a direct likelihood approach*. Statistical Methods in Medical Research, Online.
 
 - Lou, Y., Du, M., & Sun, J. (2026). *Two transfer learning approaches for regression analysis of high-dimensional interval-censored failure time data*. Journal of Computational and Graphical Statistics, Online.
+
+- Du, M., Wang, X., & Lou, Y. (2026). *Simultaneous estimation and variable selection for Cox-Aalen transformation models*. Statistics in Biosciences, Online.
   
 - Du, M., Lou, Y., & Sun, J. (2026). *Regression analysis of case K interval-censored failure time data with random change point and informative censoring*. Annals of Applied Statistics, 20(1): 496-510.
 
