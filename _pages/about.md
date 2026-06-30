@@ -24,7 +24,7 @@ I also have the joy of working alongside [Dr. Yuqing Ma](), a wonderful collabor
 
 My research interests include survival analysis, biased sampling, missing data, causal inference, change point problems, competing risks, and transfer learning. I am particularly interested in creating robust and efficient statistical tools that tackle real-world challenges in medical and epidemiological studies.
 
-🌟 I'm absolutely thrilled and deeply honored to receive the [ICSA Junior Researcher Award 2026](https://china2026.icsa.org/junior-research-award/)! Words cannot fully express how incredibly grateful I am to my amazing supervisors, whose boundless patience, constant belief in my potential, and phenomenal mentorship have completely shaped my journey and inspired me every single day. 
+🌟 I'm absolutely thrilled and deeply honored to receive the [ICSA Junior Researcher Award 2026](https://www.icsa.org/awards/junior-research-award/)! Words cannot fully express how incredibly grateful I am to my amazing supervisors, whose boundless patience, constant belief in my potential, and phenomenal mentorship have completely shaped my journey and inspired me every single day. 
 
 🚀 I’m delighted to receive the [WiEST Development Grant 2026](https://www.ntu.edu.sg/women/wiest-development-grant) from NTU! A massive thank you to my incredible supervisor, Prof. Xiang Liming, and the wonderful team at [Women at NTU](https://www.ntu.edu.sg/women) for their amazing support. 
 
