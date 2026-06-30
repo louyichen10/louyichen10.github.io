@@ -129,6 +129,10 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 # 💬 Invited Talks
 
+### 2026
+
+- **ICSA China Conference**, Southern University of Science and Technology, June 28, 2026  
+
 ### 2025
 
 - **ICSA China Conference**, Beijing Normal University (Zhuhai), June 29, 2025  
