@@ -77,7 +77,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Du, M., Wang, X., & Lou, Y. (2026). *Simultaneous estimation and variable selection for Cox-Aalen transformation models*. Statistics in Biosciences, Online.
   
-- Du, M., Lou, Y., & Sun, J. (2026). *Regression analysis of case K interval-censored failure time data with random change point and informative censoring*. Annals of Applied Statistics, 20(1): 496-510.
+- Du, M., Lou, Y., & Sun, J. (2026, Authors in Alphabetical Order). *Regression analysis of case K interval-censored failure time data with random change point and informative censoring*. Annals of Applied Statistics, 20(1): 496-510.
 
 - Jia, R., Lou, Y., Sun, J., & Wang, P. (2026). *Semiparametric regression analysis of interval-censored competing risks data under additive hazards model with missing event types*. Lifetime Data Analysis, 32:19.
 
@@ -89,7 +89,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Lou, Y., Ma, Y., Sun, J., Wang, P., & Ye, Z. (2025). *Instrumental variable estimation of complier causal treatment effects with interval-censored competing risks data*. Biometrics, 81(1): ujaf010.
 
-- Du, M., Lou, Y., & Sun, J. (2025). *Estimation and variable selection for interval-censored failure time data with random change point and application to breast cancer study*. Journal of the American Statistical Association, 120(552): 2276-2287.
+- Du, M., Lou, Y., & Sun, J. (2025, Authors in Alphabetical Order). *Estimation and variable selection for interval-censored failure time data with random change point and application to breast cancer study*. Journal of the American Statistical Association, 120(552): 2276-2287.
 
 - Lou, Y., Sun, J., Wang, P., & Zhao, S. (2025). *Enhancing proportional hazards mixture cure models with transfer learning for interval-censored data*. Statistics and Computing, 35(6): 186.  
 
@@ -97,7 +97,7 @@ Thank you for visiting my page! Please feel free to explore my publications and 
   
 - Lou, Y., Du, M., Wang, P., & Song, X. (2025). *Semiparametric regression analysis of interval-censored failure time data with a cure subgroup and nonignorable missing covariates*. Statistical Methods in Medical Research, 34(10): 1994-2010.
 
-- Du, M., Lou, Y., & Sun, J. (2025). *Estimation of the additive hazards model based on interval-censored failure time data with random change point*. Statistics and Computing, 35(5): 1-11.
+- Du, M., Lou, Y., & Sun, J. (2025, Authors in Alphabetical Order). *Estimation of the additive hazards model based on interval-censored failure time data with random change point*. Statistics and Computing, 35(5): 1-11.
 
 - Lou, Y., Ma, Y., Xiang, L., & Sun, J. (2025). *Flexible modeling of left-truncated and interval-censored competing risks data with missing event types*. Computational Statistics & Data Analysis, 211:108229.
 
