@@ -132,8 +132,9 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 # 💬 Invited Talks
 
 ### 2026
+- **Workshop on Statistical Analysis of Interval-censored Data**, Jilin University, July 16, 2026
 
-- **ICSA China Conference**, Southern University of Science and Technology, June 28, 2026  
+- **ICSA China Conference**, Southern University of Science and Technology, June 29, 2026  
 
 ### 2025
 
