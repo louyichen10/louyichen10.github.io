@@ -69,6 +69,8 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Lou, Y., Du, M., Zhao, H., & Sun, J. (2026). *Transfer learning estimation of the accelerated failure time model based on high-dimensional data*. Biometrics, 82(2): ujag103.
 
+- Lou, Y., Du, M., & Sun, J. (2026). *Simultaneous estimation and variable selection for linear transformation models in the presence of functional and missing covariates with the application to Alzheimer's disease*. Statistica Sinica, Online.
+
 - Lou, Y., Du, M., Wang, P., & Song, X. (2026). *Causal estimation of interval-censored failure time data with a binary instrumental variable*. TEST, Online.
 
 - Lou, Y., Ma, Y., Xiang, L., & Sun, J. (2026). *Regression analysis of interval-censored competing risks data with missing causes of failure: a direct likelihood approach*. Statistical Methods in Medical Research, 35(4): 795-811.
