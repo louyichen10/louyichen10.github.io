@@ -73,6 +73,8 @@ Thank you for visiting my page! Please feel free to explore my publications and 
 
 - Lou, Y., Du, M., Wang, P., & Song, X. (2026). *Causal estimation of interval-censored failure time data with a binary instrumental variable*. TEST, Online.
 
+- Lou, Y., Du, M., & Sun, J. (2026). *Alasso-based transfer learning estimation of the accelerated failure time model with high-dimensional data*. Statistics and Computing, Online.
+
 - Lou, Y., Du, M., & Sun, J. (2026). *Regression analysis of interval-censored failure time data in the presence of random change points and a cured subgroup*. Statistics and Computing, Online.
 
 - Lou, Y., Ma, Y., Xiang, L., & Sun, J. (2026). *Regression analysis of interval-censored competing risks data with missing causes of failure: a direct likelihood approach*. Statistical Methods in Medical Research, 35(4): 795-811.
